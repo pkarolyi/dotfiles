@@ -1,0 +1,7 @@
+[alias]
+	fap = fetch --all --prune
+	co = checkout
+	graph = log --oneline --graph
+[user]
+	name = Peter Karolyi
+	email = peter@karolyi.dev
